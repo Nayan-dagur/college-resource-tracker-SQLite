@@ -1,0 +1,21 @@
+# Build outputs
+bin/
+*.o
+resource_tracker
+
+# SQLite local databases created at runtime
+*.db
+*.db-journal
+*.db-wal
+college_resources.db
+
+# macOS files
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# IDE / Editor configuration
+.vscode/
+.idea/
+*.swp
+*.swo
