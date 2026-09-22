@@ -1,4 +1,4 @@
-# College Resource Tracker --SQLITE🎓⚡
+# College Resource Tracker --SQLite🎓⚡
 > **DBMS Mini-Project & Technical Portfolio Project**  
 > *Designed a normalized (3NF) relational schema to track college equipment, bookings, and maintenance logs. Implemented CRUD operations through a C++ console interface using secure, parameterized queries.*
 
